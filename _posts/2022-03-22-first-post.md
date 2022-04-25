@@ -1,28 +1,31 @@
 ---
-layout: post 
-title: My first post on Jekyll
-tags: first markdown example 
-categories: blog 
+layout: post
+title: My First Jekyll Post
+tags: first markdown example
+categories: demo
 ---
 
-Hi! Welcome to my Blog! 
-- **New**
-- *new*
+This is a paragraph in my first post.
+Show off your Markdown!
 
-## My Portfolio
+## Heading Two 
 
-paragraph 
-Hyperlinks [Github Help](https://help.github.com)
+Any text with no empty lines between will become a paragraph.
+Leave an blank line between headings and paragraphs.
+Font can be *Italic* or **Bold**.
+Code can be highlighted with `backticks`.
 
-### Hobbies
+Hyperlinks look like this [GitHub Help](https://help.github.com/).
 
-Bullet List: 
+A bullet list is created using `*`, `+`, or `-`, like:
 
-- My first
-- Second 
-- Third item 
+- dog
+- cat
+- muffin
 
-Numbered List:
-1. First
-2. Second
-3. Third
+A numbered list is created using a number + `.`, like:
+
+1. one
+2. two
+6. three
+2. four
